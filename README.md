@@ -5,7 +5,7 @@
   
   [![GitHub](https://img.shields.io/badge/GitHub-VENi-blue?style=for-the-badge&logo=github(https://github.com/mahamadmhamad63-oss/Pomni-AI-main)))]]
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-Owner-green?style=for-the-badge&logo=whatsapp)](https://wa.me/201022846899)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-Channel-orange?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VaQim2bAu3aPsRVaDq3v)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-Channel-orange?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029ValxOlxIt5rnh4YGPp26)
  
   
   **A simple WhatsApp bot with a framework [MeowSab](https://github.com/deveni0/ws)** 
