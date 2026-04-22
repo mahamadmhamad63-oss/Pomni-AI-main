@@ -21,9 +21,9 @@
     "wa-sticker-formatter": "^4.3.2"
   },
   "overrides": {
-    "sharp": "https://github.com/deveni0/sharp-tmx/tarball/main",
+    "sharp": "https://github.com/mahamadmhamad63-oss/Pomni-AI-main",
     "*": {
-      "sharp": "https://github.com/deveni0/sharp-tmx/tarball/main"
+      "sharp": "https://github.com/mahamadmhamad63-oss/Pomni-AI-main"
     }
   }
 }
